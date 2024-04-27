@@ -30,7 +30,7 @@ Give credit here.
 - Thnaks to beautiful explanation by Gramaner CEO, Anand S in the content put together by upgrad and IIITB
 
 ## Contact
-Created by [@sivavaddadi] - feel free to contact me!
+Created by @sivavaddadi - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
