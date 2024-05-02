@@ -15,14 +15,14 @@
 
 ## Conclusions
 - To mitigate default risk, aim to keep the interest rate below 12%.
-- The company should consider diversifying loan purposes by exploring opportunities to allocate a greater portion of loans towards categories like car purchases, credit card payments, home improvements, weddings, and major purchases. These categories typically exhibit lower default rates. Simultaneously, efforts should be made to reduce the overall proportion of loans designated for debt consolidation.
-- The following borrowers are at a higher risk of default
-  - Those with history of 30+ days past due incidences (delinquencies), derogatory public records, or public bankruptcy records.
-  - Having utilization rate above 30%
-  - Having DTI above 8
-  - Having more than 1 loan inquiry in last 6 months.
-  - Having a record of Recovery fees paid
-- For future loans extended to borrowers satisfying above conditions, it is advisable to mitigate risk by offering smaller loan amounts and/or higher interest rates.
+- The company should contemplate diversifying loan purposes by decreasing the overall percentage of loans earmarked for debt consolidation. Instead, it should increase loan allocations toward categories such as car purchases, credit card payments, home improvements, weddings, and major purchases. These categories were found to have lower default rates, thereby are good options to mitigate default risk.
+- Borrowers falling into the following categories are at a heightened risk of default:
+  - Individuals with a history of 30+ days past due incidences (delinquencies), derogatory public records, or public bankruptcy records.
+  - Those with a loan revolving utilization rate exceeding 30%.
+  - Borrowers with a debt-to-income ratio (DTI) surpassing 8.
+  - Individuals who have made more than one loan inquiry in the last 6 months.
+  - Borrowers with a record of paying recovery fees.
+- For future loans extended to borrowers meeting the aforementioned conditions, it is advisable to mitigate loan default risk by considering strategies such as offering smaller loan amounts and/or higher interest rates. These measures can help offset the increased default risk associated with these borrower profiles.
 
 ## Technologies Used
 - numpy - version 1.26.4
