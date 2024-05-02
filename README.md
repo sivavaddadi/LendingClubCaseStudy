@@ -14,10 +14,15 @@
 - The dataset used for analysis is in this github repo with name loan.csv
 
 ## Conclusions
-- Reduce loans with 60-month tenure as they have higer default rate than 36-month tenure loans
-- Diversify purposes for which loans are given as most of loans given are for debt consolidation and this purpose has high default rate
-- Improve verification process as most of defaulters are verified customers
-- Avoid loans to borrowers with public records and public bankruptcy records and delinquency history as these are almost certain to default
+- To mitigate default risk, aim to keep the interest rate below 12%.
+- The company should consider diversifying loan purposes by exploring opportunities to allocate a greater portion of loans towards categories like car purchases, credit card payments, home improvements, weddings, and major purchases. These categories typically exhibit lower default rates. Simultaneously, efforts should be made to reduce the overall proportion of loans designated for debt consolidation.
+- The following borrowers are at a higher risk of default
+  - Those with history of 30+ days past due incidences (delinquencies), derogatory public records, or public bankruptcy records.
+  - Having utilization rate above 30%
+  - Having DTI above 8
+  - Having more than 1 loan inquiry in last 6 months.
+  - Having a record of Recovery fees paid
+- For future loans extended to borrowers satisfying above conditions, it is advisable to mitigate risk by offering smaller loan amounts and/or higher interest rates.
 
 ## Technologies Used
 - numpy - version 1.26.4
@@ -26,7 +31,6 @@
 - matplotlib - version 3.8.3
 
 ## Acknowledgements
-Give credit here.
 - Thnaks to beautiful explanation by Gramaner CEO, Anand S in the content put together by upgrad and IIITB
 
 ## Contact
